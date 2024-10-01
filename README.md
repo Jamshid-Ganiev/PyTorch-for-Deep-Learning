@@ -14,5 +14,5 @@ You can try the demo directly on Hugging Face Spaces by clicking the badge above
 ## *Demo
 
 ![image](https://github.com/user-attachments/assets/6f7ae552-0def-4e24-9497-dae622bdb3a2)
-</>hr</>
+<hr</>
 ![image](https://github.com/user-attachments/assets/48716109-5807-4c63-913f-ffffd629c5a8)
