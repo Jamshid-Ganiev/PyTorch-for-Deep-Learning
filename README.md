@@ -11,7 +11,7 @@ Everything about PyTorch for Deep Learning.
 
 You can try the demo directly on Hugging Face Spaces by clicking the badge above or using this link: [Try Food-Vision-101](https://huggingface.co/spaces/Jamshidjon/Food-Vision-101).
 
-## *Demo
+## Project Demo
 
 ![image](https://github.com/user-attachments/assets/6f7ae552-0def-4e24-9497-dae622bdb3a2)
 <hr</>
